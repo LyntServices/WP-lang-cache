@@ -7,6 +7,10 @@
  * @subpackage mo
  */
 
+/**
+ * Added cache by Lynt services (http://lynt.cz)
+ */ 
+ 
 require_once dirname(__FILE__) . '/translations.php';
 require_once dirname(__FILE__) . '/streams.php';
 
